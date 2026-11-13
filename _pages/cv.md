@@ -15,6 +15,7 @@ Education
   * Advisor: Prof. Junxian He.
 * B.Eng., Shanghai Jiao Tong University, 2020–2024.
   * Graduated in June 2024.
+  * Previously advised by Prof. Junxian He.
 
 Research Experience
 ======
