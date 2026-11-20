@@ -1,0 +1,1 @@
+allowedFields          : ['name', 'email', 'url', 'message']
