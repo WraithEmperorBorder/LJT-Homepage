@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Junteng Liu**, a first-year Ph.D. candidate in the [NLP Group](https://cse.hkust.edu.hk/~jhexian/nlp.html) at the **Hong Kong University of Science and Technology (HKUST)**, where I am fortunate to be advised by **Professor Junxian He**. I received my Bachelor of Engineering (B.Eng.) degree from **Shanghai Jiao Tong University (SJTU)** in June 2024.
+I am **Junteng Liu**, a first-year Ph.D. candidate in the NLP Group at the **Hong Kong University of Science and Technology (HKUST)**, where I am fortunate to be advised by **Professor Junxian He**. I received my Bachelor of Engineering (B.Eng.) degree from **Shanghai Jiao Tong University (SJTU)** in June 2024.
 
 My research focuses on **natural language processing** and **machine learning**. My research interests include **LLM reasoning and reinforcement learning**, **hallucination in vision-language models (VLM)**, and **LLM truthfulness and interpretability**.
 
@@ -58,7 +58,7 @@ My research focuses on **natural language processing** and **machine learning**.
   - Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
   - Proceedings of NeurIPS 2023.
 
-A complete, filterable list is also available on the [Publications](/publications/) page and on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+The same list is available on the [Publications](/publications/) page and on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Awards
 
