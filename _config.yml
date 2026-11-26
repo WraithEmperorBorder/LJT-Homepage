@@ -47,7 +47,24 @@ exclude:
   - .github
   - .jekyll-assets-cache
   - .sass-cache
+  - AGENTS.md
+  - CHANGELOG.md
+  - Capfile
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - Gruntfile.js
+  - README.md
+  - Rakefile
+  - docker-compose.yaml
+  - gulpfile.js
+  - markdown_generator
   - node_modules
+  - package.json
+  - package-lock.json
+  - scripts
+  - talkmap.ipynb
+  - talkmap.py
   - tmp
   - vendor
 keep_files:
