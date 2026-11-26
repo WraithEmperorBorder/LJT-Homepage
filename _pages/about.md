@@ -58,7 +58,7 @@ My research focuses on **natural language processing** and **machine learning**.
   - Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
   - Proceedings of NeurIPS 2023.
 
-The same list is available on the [Publications](/publications/) page and on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+The same list is available on the [Publications]({{ '/publications/' | relative_url }}) page and on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Awards
 
